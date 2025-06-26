@@ -1,6 +1,6 @@
 ---
-title: OAuth 2.0 - Benefits and Security Considerations
-description: OAuth 2.0 - Benefits and Security Considerations
+title: OAuth 2.0 Basics - 0. Benefits and Security Considerations
+description: OAuth 2.0 Basics - 0. Benefits and Security Considerations.
 pubDate: June 25 2025
 heroImage: ../../assets/Sign-in-with-Google.png
 ---
