@@ -18,8 +18,10 @@ import { SITE_TITLE, SITE_DESCRIPTION } from '../consts';
 export async function GET(context) {
 	const blogPosts = await getCollection('blog');
 	const oauthPosts = await getCollection('oauth'); // 너가 새로 추가한 컬렉션 이름
-
-	const allPosts = [...blogPosts, ...oauthPosts];
+  const jwtPosts = await getCollection('jwt')
+  const owasp_api_top_10 = await getCollection('owasp_api_top_10')
+	
+	const allPosts = [...blogPosts, ...oauthPosts, ...jwtPosts, ...owasp_api_top_10];
 
 	return rss({
 		title: SITE_TITLE,

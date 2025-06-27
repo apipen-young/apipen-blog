@@ -40,8 +40,34 @@ const oauth= defineCollection({
     }),
 });
 
+const jwt= defineCollection({
+  schema: ({ image }) =>
+    z.object({
+      title: z.string(),
+      description: z.string(),
+      pubDate: z.coerce.date(),
+			updatedDate: z.coerce.date().optional(),
+      heroImage: image().optional(),
+    }),
+});
+
+const owasp_api_top_10 = defineCollection({
+  schema: ({ image }) =>
+    z.object({
+      title: z.string(),
+      description: z.string(),
+      pubDate: z.coerce.date(),
+			updatedDate: z.coerce.date().optional(),
+      heroImage: image().optional(),
+    }),
+});
+
+
+
 export const collections = {
   blog,
   oauth,
+  jwt,
+  owasp_api_top_10
 };
 
