@@ -63,11 +63,23 @@ const owasp_api_top_10 = defineCollection({
 });
 
 
+const burp_suite = defineCollection({
+  schema: ({ image }) =>
+    z.object({
+      title: z.string(),
+      description: z.string(),
+      pubDate: z.coerce.date(),
+			updatedDate: z.coerce.date().optional(),
+      heroImage: image().optional(),
+    }),
+});
+
 
 export const collections = {
   blog,
   oauth,
   jwt,
-  owasp_api_top_10
+  owasp_api_top_10,
+  burp_suite
 };
 

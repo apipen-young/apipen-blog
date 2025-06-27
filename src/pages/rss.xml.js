@@ -20,8 +20,9 @@ export async function GET(context) {
 	const oauthPosts = await getCollection('oauth'); // 너가 새로 추가한 컬렉션 이름
   const jwtPosts = await getCollection('jwt')
   const owasp_api_top_10 = await getCollection('owasp_api_top_10')
-	
-	const allPosts = [...blogPosts, ...oauthPosts, ...jwtPosts, ...owasp_api_top_10];
+  const burp_suite = await getCollection('burp_suite')
+
+	const allPosts = [...blogPosts, ...oauthPosts, ...jwtPosts, ...owasp_api_top_10, ...burp_suite];
 
 	return rss({
 		title: SITE_TITLE,
