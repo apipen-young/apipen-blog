@@ -79,7 +79,8 @@ export const collections = {
   blog,
   oauth,
   jwt,
-  owasp_api_top_10,
-  burp_suite
+  "owasp-api-top-10": owasp_api_top_10,
+  "burp-suite": burp_suite
+
 };
 
