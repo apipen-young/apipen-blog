@@ -2,7 +2,7 @@
 title: OAuth 2.0 Basics – 1. Introduction
 description: Learning about OAuth 2.0 basics
 pubDate: June 25 2025
-heroImage: ../../assets/OAuth-2-Modern-Design.png
+heroImage: ../../assets/oauth2-logo.png
 ---
 현재 수많은 고품질 웹 애플리케이션이 존재하는 시대에서 OAuth를 통한 다른 웹 애플리케이션 연동은 거의 필수적인 요소가 되었습니다. 따라서 OAuth를 활용하는 개발자와 정보보안 담당자들에게는 OAuth에 대한 심도 있는 이해가 매우 중요해졌습니다.
 

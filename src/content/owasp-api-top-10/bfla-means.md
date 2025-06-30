@@ -2,7 +2,7 @@
 title: Before diving into BFLA, let’s clarify what “function” actually means in BFLA
 description: Before diving into BFLA, let’s clarify what “function” actually means in BFLA
 pubDate: June 25 2025
-heroImage: ../../assets/BFLA.png
+heroImage: ../../assets/bfla.png
 ---
 BFLA stands for Broken Function Level Authorization.
 

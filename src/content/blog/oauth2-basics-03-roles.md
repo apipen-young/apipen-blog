@@ -2,7 +2,7 @@
 title: OAuth 2.0 Basics – 2. Roles
 description: OAuth 2.0 Basics – 2. Roles.
 pubDate: June 26 2026
-heroImage: ../../assets/OAuth Roles.jpg
+heroImage: ../../assets/oauth2-roles.jpg
 ---
 
 우리가 일정관리 웹 애플리케이션(**Xscheduler**)을 개발하는 팀이라고 가정해봅시다. 이 애플리케이션은 사용자가 입력한 일정을 자동으로 구글 캘린더에 추가하는 핵심 기능을 제공합니다. **Xscheduler**가 사용자의 구글 캘린더에 지속적으로 일정을 추가하려면 OAuth 인증을 통해 적절한 권한을 획득해야 합니다.

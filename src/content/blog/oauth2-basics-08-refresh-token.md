@@ -2,7 +2,7 @@
 title: OAuth 2.0 Basics – 7. Refresh Token
 description: OAuth 2.0 Basics – 7. Refresh Token
 pubDate: June 27 2026
-heroImage: ../../assets/refresh-token.png
+heroImage: ../../assets/oauth2-refresh-token.png
 ---
 
 ```textile

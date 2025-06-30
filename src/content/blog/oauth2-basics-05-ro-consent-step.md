@@ -2,7 +2,7 @@
 title: OAuth 2.0 Basics - 4. R.O's consent step
 description: OAuth 2.0 Basics - 4. R.O's consent step.
 pubDate: June 26 2026
-heroImage: ../../assets/OAuth R.O_s consent.jpg
+heroImage: ../../assets/oauth2-ro-consent-step.jpg
 ---
 
 1. R.O가 C를 사용중에, C와 연동된 R.S의 기능을 사용하려고 할 때, C는 R.O에 'Login with Google' 같은 버튼을 보여준다.
