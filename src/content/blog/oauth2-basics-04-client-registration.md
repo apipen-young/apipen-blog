@@ -2,8 +2,9 @@
 title: OAuth 2.0 Basics – 3. Client Registration
 description: OAuth 2.0 Basics – 3. Client Registration.
 pubDate: June 26 2026
-heroImage: ../../assets/oauth2-client-registration.jpg
+heroImage: ../../assets/oauth2-client-registration2.png
 ---
+![oauth2-client-registration](../../assets/oauth2-client-registration.jpg)
 
 클라이언트(C)가 리소스 서버(R.S)의 기능을 OAuth를 통해 사용하려면, 먼저 리소스 서버에 클라이언트 등록을 해야 합니다.
 
