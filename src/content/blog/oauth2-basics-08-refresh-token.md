@@ -4,7 +4,6 @@ description: OAuth 2.0 Basics – 7. Refresh Token
 pubDate: June 27 2026
 heroImage: ../../assets/oauth2-refresh-token.png
 ---
-
 ```textile
   +--------+                                           +---------------+
   |        |--(A)------- Authorization Grant --------->|               |
