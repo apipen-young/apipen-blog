@@ -1,10 +1,10 @@
 ---
-title: OAuth 2.0 Basics - 5. R.S's consent step
-description: OAuth 2.0 Basics - 5. R.S's consent step.
+title: OAuth 2.0 Basics - 5. R.S's grant
+description: OAuth 2.0 Basics - 5. R.S's grant
 pubDate: June 27 2026
-heroImage: ../../assets/oauth2-ro-grant.png
+heroImage: ../../assets/oauth/oauth2-ro-grant2.png
 ---
-![oauth2-rs-grant](../../assets/oauth2-rs-grant.png)
+![oauth2-rs-grant](../../assets/oauth/oauth2-rs-grant.jpg)
 
 1. R.O 의 승인이 끝났기 때문에, authorization_code: 3 을 발급한다.
 

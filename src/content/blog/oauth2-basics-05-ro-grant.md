@@ -1,10 +1,10 @@
 ---
-title: OAuth 2.0 Basics - 4. R.O's consent step
-description: OAuth 2.0 Basics - 4. R.O's consent step.
+title: OAuth 2.0 Basics - 4. R.O's grant
+description: OAuth 2.0 Basics - 4. R.O's grant.
 pubDate: June 26 2026
-heroImage: ../../assets/oauth2-ro-grant.png
+heroImage: ../../assets/oauth/oauth2-ro-grant2.png
 ---
-![oauth2-ro-cosent-step](../../assets/oauth2-ro-consent-step.jpg)
+![oauth2-ro-grant](../../assets/oauth/oauth2-ro-grant.jpg)
 1. R.O가 C를 사용중에, C와 연동된 R.S의 기능을 사용하려고 할 때, C는 R.O에 'Login with Google' 같은 버튼을 보여준다.
 
 2. R.O는 'Login with Google+'에 링크된 'https://resource_server/?client_id=1&scope=b,c&redirect_uri=https://client/callback' 이 주소를 통해서 R.S에 파라미터들과 함께 접속한다. R.S는 이 파라미터들을 임시로 저장한다.
