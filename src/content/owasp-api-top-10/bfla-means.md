@@ -3,7 +3,6 @@ title: Before diving into BFLA, let’s clarify what “function” actually mea
 description: Before diving into BFLA, let’s clarify what “function” actually means in BFLA
 pubDate: June 25 2025
 heroImage: ../../assets/owasp-api-top-10/bfla.png
-
 ---
 BFLA stands for Broken Function Level Authorization.
 

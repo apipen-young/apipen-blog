@@ -1,8 +1,8 @@
 ---
-title: OAuth 2.0 Basics - 5. R.S's grant
-description: OAuth 2.0 Basics - 5. R.S's grant
+title: OAuth 2.0 Basics - 06. R.S's grant
+description: OAuth 2.0 Basics - 06. R.S's grant
 pubDate: June 27 2026
-heroImage: ../../assets/oauth/oauth2-ro-grant2.png
+heroImage: ../../assets/oauth/oauth2-rs-grant2.png
 ---
 ![oauth2-rs-grant](../../assets/oauth/oauth2-rs-grant.jpg)
 

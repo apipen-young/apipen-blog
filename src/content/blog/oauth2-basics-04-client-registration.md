@@ -1,6 +1,6 @@
 ---
-title: OAuth 2.0 Basics – 3. Client Registration
-description: OAuth 2.0 Basics – 3. Client Registration.
+title: OAuth 2.0 Basics – 04. Client Registration
+description: OAuth 2.0 Basics – 04. Client Registration.
 pubDate: June 26 2026
 heroImage: ../../assets/oauth/oauth2-client-registration2.png
 ---

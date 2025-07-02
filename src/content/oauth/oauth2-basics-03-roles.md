@@ -1,6 +1,6 @@
 ---
-title: OAuth 2.0 Basics – 2. Roles
-description: OAuth 2.0 Basics – 2. Roles.
+title: OAuth 2.0 Basics – 03. Roles
+description: OAuth 2.0 Basics – 03. Roles.
 pubDate: June 26 2026
 heroImage: ../../assets/oauth/oauth2-roles2.png
 ---

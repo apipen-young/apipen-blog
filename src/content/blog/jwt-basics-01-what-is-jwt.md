@@ -1,6 +1,6 @@
 ---
-title: JWT Basics - 1. What is JWT?
-description: JWT Basics - 1. What is JWT?
+title: JWT Basics - 01. What is JWT?
+description: JWT Basics - 01. What is JWT?
 pubDate: June 27 2025
 heroImage: ../../assets/jwt/jwt-ticket.jpg
 ---

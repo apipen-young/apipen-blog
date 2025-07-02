@@ -1,6 +1,6 @@
 ---
-title: OAuth 2.0 Basics – 1. Introduction
-description: Learning about OAuth 2.0 basics
+title: OAuth 2.0 Basics – 02. Introduction
+description: OAuth 2.0 Basics – 02. Introduction  
 pubDate: June 25 2025
 heroImage: ../../assets/oauth/oauth2-logo.png
 ---

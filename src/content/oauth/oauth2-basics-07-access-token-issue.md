@@ -1,6 +1,6 @@
 ---
-title: OAuth 2.0 Basics – 6. Access Token Issue
-description: OAuth 2.0 Basics – 6. Access Token Issue.
+title: OAuth 2.0 Basics – 07. Access Token Issue
+description: OAuth 2.0 Basics – 07. Access Token Issue.
 pubDate: June 27 2026
 heroImage: ../../assets/oauth/oauth2-access-token2.png
 ---

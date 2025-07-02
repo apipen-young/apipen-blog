@@ -1,6 +1,6 @@
 ---
-title: OAuth 2.0 Basics - 4. R.O's grant
-description: OAuth 2.0 Basics - 4. R.O's grant.
+title: OAuth 2.0 Basics - 05. R.O's grant
+description: OAuth 2.0 Basics - 05. R.O's grant.
 pubDate: June 26 2026
 heroImage: ../../assets/oauth/oauth2-ro-grant2.png
 ---
